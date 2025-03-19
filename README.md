@@ -1,2 +1,1 @@
-# PRODIGY_DS_02
-EDA on credit card transactions to identify fraud patterns using visualizations, statistics, and correlation analysis.
+PRODIGY_DS_02 is an Exploratory Data Analysis (EDA) project aimed at detecting fraudulent credit card transactions. It applies statistical analysis, data visualization, and correlation techniques to uncover fraud patterns, helping in risk assessment and fraud prevention. The project highlights key transaction anomalies, trends, and high-risk behaviors to enhance fraud detection strategies.
